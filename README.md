@@ -1,2 +1,2 @@
 # py_TIGRESS
-python scripts and  notebooks for Athena-TIGRESS
+python scripts and notebooks for Athena-TIGRESS
